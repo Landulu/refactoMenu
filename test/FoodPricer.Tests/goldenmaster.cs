@@ -22,4 +22,14 @@ Prix à payer : 18€
 ";
       Check.That(sut).IsEqualTo(expected);
     }
+
+  [Fact]
+    public void ClassMenuWorks()
+    {
+      var menu = new Menu("assiette", "couscous", "coca", "moyen", "baba", "normal", "yes");
+      
+      var sut = menu.getPrice();
+      var expected = 18;
+      Check.That(sut).IsEqualTo(expected);
+    }
 }

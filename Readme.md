@@ -25,3 +25,6 @@ Independently of the language and it's technical constraints, code needs strucur
 You start working on this kata with Replit:
 
 [Run on Replit](https://replit.com/github/rhwy/Kata-Refactoring-FoodPricer)
+
+
+Maxime ANTOINE ( mantoine1@myges.fr )

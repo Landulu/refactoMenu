@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWzFGAjbjBTSPMBsCgz/Ur03czyibSQW0actxKLqFdNcjFVttKnOYvkxJryMw7WVzVdJ4AZWvydtqd/d982OJQ==",
+  "dgSpecHash": "gTu+iRBOGBP8fALr8wB5pWPSFPYJbH16/ydBSzC98wnCtrFtPVXrv3G+NXnsbGLpSngoZxN+J62ww+HzMGiNPQ==",
   "success": true,
-  "projectFilePath": "/home/runner/Exo1/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
+  "projectFilePath": "/home/runner/Exo2-inscriptionsmax/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
   "expectedPackageFiles": [
     "/home/runner/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/runner/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
